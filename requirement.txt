@@ -1,0 +1,10 @@
+pandas-datareader
+scipy-stack
+numpy
+matplotlib
+pytrends
+goose3
+bs4
+textblob
+nltk
+backtrader
